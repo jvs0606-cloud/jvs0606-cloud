@@ -39,7 +39,7 @@
 | Project | Description |
 | --- | --- |
 | Book Community | Django 기반 도서 커뮤니티 서비스 |
-| Movie Planner | 외부 API를 활용한 영화 관람 플래너 |
+| 광주 영화 관람 플래너 | 관람 시간에 맞는 영화 후보와 광주 영화관을 찾고 일정을 관리하는 FastAPI·LangGraph 웹 앱 · 저장소 비공개 |
 
 
 ## 🌱 Currently Learning
